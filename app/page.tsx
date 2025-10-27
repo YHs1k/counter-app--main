@@ -10,6 +10,7 @@ export default function Home() {
           </h1>
           <p className="text-gray-600 dark:text-gray-300">
             MetaMask를 사용하여 스마트 컨트랙트와 상호작용하세요
+            92113748 윤현식
           </p>
         </div>
 
